@@ -1,0 +1,20 @@
+{
+    "adesh":[{
+    "name" : "Adesh Kumar",
+    "age": 21,
+    "health":[{
+        "Diabetis":"None",
+        "Cholestrol":"None",
+        "Asthama":"True",
+        "liquor":"False"
+    }],
+    "relatives":[{
+        "1":"+91XXXXXXXXXX",
+        "2":"+91XXXXXXXXXX"
+    }],
+    "friend":[{
+        "1":"+91XXXXXXXXXX",
+        "2":"+91XXXXXXXXXX"
+    }]
+}]
+}
